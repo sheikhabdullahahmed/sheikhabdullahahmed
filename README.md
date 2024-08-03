@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sheikh Abdullah Ahmed</h1>
+<h1 align="center">Salam 👋</h1>
+<h1 align="center">I'm Sheikh Abdullah Ahmed </h1>
 - 📫 How to reach me **abdullahsheikh456677@gamil.com**
 
 - ⚡ Fun fact **Yes, I am Funnny**
