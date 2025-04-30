@@ -1,4 +1,4 @@
-<h1 align="center">Salam 👋 </h1> 
+<h1 align="center">Assalam-o-Alaikum!👋 </h1> 
 <h1 align="center"> I'm  Sheikh Abdullah Ahmed</h1>
 
 - 📫 How to reach me **abdullahsheikh456677@gmail.com**
