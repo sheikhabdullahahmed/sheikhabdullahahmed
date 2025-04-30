@@ -17,7 +17,7 @@
 <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css,js, tailwind, ts,  react, nextjs,nodejs,  express" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,nextjs,nodejs,express" />
   </a>
 </p>
 
