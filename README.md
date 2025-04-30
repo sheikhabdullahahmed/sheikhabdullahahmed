@@ -1,7 +1,7 @@
 <h1 align="center">Salam 👋 </h1> 
 <h1 align="center"> I'm  Sheikh Abdullah Ahmed</h1>
 
-- 👨‍💻 All of my projects are available at [(portfolioo-inky-one.vercel.app/)]
+- 👨‍💻 All of my projects are available at **portfolioo-inky-one.vercel.app**
 
 - 📫 How to reach me **abdullahsheikh456677@gmail.com**
 
