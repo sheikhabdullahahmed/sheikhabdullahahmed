@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sheikhabdu60532" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sheikh abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh abdullah" height="30" width="40" /></a>
 <a href="https://fb.com/sheikh abdullah ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh abdullah ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/_sheikhabdullahahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sheikhabdullahahmed" height="30" width="40" /></a>
